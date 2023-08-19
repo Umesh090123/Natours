@@ -5,6 +5,11 @@ import { login, logout } from './login';
 import { updateSettings } from './updateSettings';
 import { bookTour } from './stripe';
 import { showAlert } from './alerts';
+// const  displayMap = require('./mapbox');
+// const  login, logout = require('./login');
+// const  updateSettings = require('./updateSettings');
+// const  bookTour = require('./stripe');
+// const  showAlert = require('./alerts');
 
 // DOM ELEMENTS
 const mapBox = document.getElementById('map');
